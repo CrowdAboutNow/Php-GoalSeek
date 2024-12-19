@@ -11,9 +11,7 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": "^7.1"
-    },
+  
     "autoload": {
         "psr-0": {
             "Kidjapa\\": "src/"
